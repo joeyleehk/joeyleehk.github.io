@@ -1,17 +1,17 @@
-- name: Dr. Richard Feynman
-  photo: headshot.jpg
-  info: Richard C. Tolman Professor, California Institute of Technology
-  email: richard@university.edu
-  github: https://github.com/
-  researchgate: https://www.researchgate.net/
-  scholar: https://scholar.google.com/citations?user=B7vSqZsAAAAJ
-  cv: cv/cv.pdf
+- name: Dr. Xinyu Li (Joey)
+  photo: XinyuLi_image.jpg
+  info: Postdoctoral Researcher, Texas A&M University
+  email: joey.xinyuli@tamu.edu
+  github: https://github.com/joeyleehk
+  researchgate: https://www.researchgate.net/profile/Xinyu-Li-64/
+  scholar: https://scholar.google.com/citations?hl=en&user=E9UMrO8AAAAJ
+  cv: papers/CURRICULUM VITAE_Xinyu Li.pdf
   # Change the items in "education" you have (up to 6)
   education:
     [
-      "(1942) Ph.D. Physics, Princeton University",
-      "(1939) B.S. Physics, Massachusetts Institute of Technology",
+      "(2022) Ph.D. Geomatics, The Hong Kong Polytechnic University",
+      "(2017) M.S. National Geo-Survey and Public Policy, The Chinese University of Hong Kong",
     ]
 
   educationshort:
-    ["(1942) Ph.D. Physics, Princeton", "(1939) B.S. Physics, MIT"]
+    ["(2022) Ph.D. Geomatics, PolyU HK", "(2017) M.S. Geo-Survey&Public Policy, CUHK"]
