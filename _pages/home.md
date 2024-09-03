@@ -7,26 +7,40 @@ permalink: /
 
 ### Welcome!
 
-Theoretical physics is a branch of physics that focuses on the development of mathematical models and theories to understand and explain natural phenomena.
-It plays a crucial role in our understanding of the fundamental laws of the universe and the fundamental particles that make up all matter.
-Research in theoretical physics helps us to make predictions about how the universe works and to test these predictions through experiments.
-It also helps us to understand the fundamental principles that govern the behavior of matter and energy, and to explore the limits of our current knowledge.
-Theoretical physics helps us to make progress in a wide range of fields, including cosmology, particle physics, and quantum mechanics, and it has led to many important discoveries and technological innovations.
+Howdy! I am Xinyu Li, a Postdoctoral Researcher at the Department of Landscape Architecture and Urban Planning at Texas A&M University.
+My work sits at the intersection of GeoAI, Human Mobility Analysis, Urban Digital Twin, Spatial-Temporal Data Mining, and Data Visualization, where I explore innovative solutions to enhance urban mobility and sustainability.
 
+
+### What's New
 <div class="container">
 <div class="row">
 <center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/banner.jpg" width="100%"/><br/>
-Examples of Feynman diagrams. <br/>
-Feynman R., The theory of positrons. <i>Phys. Rev.</i> (1949)
+<img src="{{ site.url }}{{ site.baseurl }}/images/part C.jpg" width="100%"/><br/>
+Irregular convolutional neural network framework<br/>
+Xinyu Li., Improving short-term bike sharing demand forecast through an irregular convolutional neural network. <i>Transportation Research Part C: Emerging Technologies</i> (2023)
 </center>
 </div>
 </div>
 <br/>
 
-### About me
+### Visulaization Demo
+<div class="container">
+<div class="row">
+<center>
+<iframe width="400" height="315" src="https://www.youtube.com/embed/zkH6Xu2_8MA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
+<strong>How well can we predict the movements of urban tourists and visitors?</strong><br/>
+</center>
+</div>
+</div>
+<br/>
 
-I am a physicist working in the field of quantum mechanics and quantum electrodynamics.
-I received my undergraduate degree in physics from the Massachusetts Institute of Technology (MIT) in 1939 and went on to earn my PhD from Princeton University in 1942.
-After completing my doctoral studies, I worked on the Manhattan Project, where I helped develop the first atomic bombs.
-After the war, I returned to academia, holding teaching and research positions at Cornell and now at the California Institute of Technology.
+<div class="container">
+<div class="row">
+<center>
+<iframe width="400" height="315" src="https://www.youtube.com/embed/_yfiuV4j9Jw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
+<strong>What will a city look like if shared bikes are unleashed from docking stations?</strong><br/>
+</center>
+</div>
+</div>
+<br/>
+

@@ -39,15 +39,15 @@ iframe {
 <div class="jumbotron">
 <div class="row align-items-end">
 <div class="col-md-12 col-sm-12">
-<h4><b>Example Software</b></h4>
-<a href="https://example.com" target="_blank"><button class="btn btn-success btn-sm">WEBSITE</button></a>
-<a href="https://github.com" target="_blank"><button class="btn btn-info btn-sm">GIT</button></a>
-<a href="{{ site.url }}{{ site.baseurl }}/papers/example_proceeding.pdf" target="_blank"><button class="btn btn-danger btn-sm">PAPER</button></a> 
+<h4><b>Improving short-term bike sharing demand forecast through an irregular convolutional neural network</b></h4>
+<!-- <a href="https://example.com" target="_blank"><button class="btn btn-success btn-sm">WEBSITE</button></a> -->
+<a href="https://github.com/joeyleehk/IrConv-LSTM" target="_blank"><button class="btn btn-info btn-sm">GIT</button></a>
+<a href="{{ site.url }}{{ site.baseurl }}/papers/papers/Improving short-term bike sharing demand forecast through an irregular convolutional neural network.pdf" target="_blank"><button class="btn btn-danger btn-sm">PAPER</button></a> 
 
 <b>Authors:</b>
-<i>Example authors</i>
+<i>Xinyu Li, Yang Xu</i>
 
-Example software description.
+An irregular convolution Long Short-Term Memory network integrated with Semantic Neighbors to predict shared bicycle usage in urban areas during the next one hour.
 
 </div>
 </div>
