@@ -192,3 +192,5 @@ Many parts of this site were adopted or copied from their laboratory webpage.
 ## License
 
 MIT
+
+# bundle exec jekyll build
